@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: Shouwei_gao_cunzhao.jpg
     content: about_shouwei.md
     image_circular: false # crops the image to make it circular
@@ -27,7 +27,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
 
-  - align: left
+  - align: right
     image: haoyu.png
     content: about_haoyu.md
     image_circular: false # crops the image to make it circular
