@@ -1,7 +1,8 @@
 ---
 layout: post
+date: 2024-01-15 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-2023-12：Our proposal "An AI/ML Collaborative for Southeast Florida Coastal Environmental Data and Modeling Center (IIS-2331908)" has been funded by the NSF. A big thank you to NSF for their support!
+A simple inline announcement with Markdown emoji! :sparkles: :smile:
