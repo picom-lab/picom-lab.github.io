@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-04
+date: 2023-04
 inline: true
 related_posts: false
 ---
 
-One paper is accepted by ASPLOS'23.
+One paper is accepted by HPDC'23.
