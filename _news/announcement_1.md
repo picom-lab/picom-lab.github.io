@@ -1,8 +1,7 @@
 ---
-layout: post
-date: 2015-10-22 
+date: 2022-04
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Dr. Dong will join FIU as a tenure-track assistant professor. Feel free to send me your application if you are interested in my research topics.
