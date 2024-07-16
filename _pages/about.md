@@ -1,9 +1,9 @@
 ---
 layout: about
-title: about
-permalink: /
+title: About
+permalink: /About/
 subtitle: <a href='https://www.fiu.edu/'>Florida International University</a>. 11200 SW 8th St, Miami, FL 33199.
-
+nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
