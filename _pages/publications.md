@@ -22,12 +22,12 @@ nav_order: 5
 
   ## Before 2022
 
-  - **Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation.**
+- **Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation.**
 
   Jie Liu, **Wenqian Dong**, Qingqing Zhou, and Dong Li
   In the 47th International Conference on Very Large Data Bases. VLDB 2021
 
-  - **MD-HM: Memoization-based Molecular Dynamics Simulations on Big Memory System.**
+- **MD-HM: Memoization-based Molecular Dynamics Simulations on Big Memory System.**
 
   Zhen Xie, **Wenqian Dong**, Jie Liu, Ivy Peng, Yanbao Ma and Dong Li
   In ACM 35th International Conference on Supercomputing. ICS 2021
