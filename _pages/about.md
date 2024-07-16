@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.fiu.edu/'>Florida International University</a>. 11200 SW 8th St, Miami, FL 33199.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mmc.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
