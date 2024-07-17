@@ -20,7 +20,7 @@ nav_order: 5
   In the 28th International Conference on Architectural Support for Programming Languages and Operating Systems. ASPLOS 2023
 
 
-  ## Before 2022
+## Before 2022
 
 - **Fauce: Fast and Accurate Deep Ensembles with Uncertainty for Cardinality Estimation.**
 
