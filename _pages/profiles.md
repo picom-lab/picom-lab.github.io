@@ -37,15 +37,4 @@ profiles:
 ---
 
 
-Intern
----
-
-*Caichen Deng
-*Shanlin Liu
----
-
----
-Alumni
-
-*Meiying Gao
 
