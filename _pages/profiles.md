@@ -36,5 +36,12 @@ profiles:
     #   <p>Your City, State 12345</p>
 ---
 
+-------------------------
+**Intern**
+* Shanlin Li
+* Caichen Deng
 
+-----------------------
+**Alumni**
+Meiying Gao
 
