@@ -22,7 +22,7 @@ nav: true
        Wenqian Dong is an assistant professor of KFSCIS department of Florida International University. She studied her Ph.D. in Computer Science and Engineering at the University of California, Merced. She worked in the High-Performance Computing Group at Pacific Northwest National Laboratory (PNNL), and AI Labs at Hewlett Packard Enterprise (HPE). Her work at PNNL was highlighted at DOE News wise and PNNL website. Her research interests include high-performance computing (HPC), scientific machine learning, automatic performance tuning, and system-level optimization for large-scale ML models. Her work has been published in multiple top-tier conferences, including SC, HPDC, ASPLOS, ICS, EuroSys, VLDB, etc. Also, she is the recipient of the IEEE Computer Society TCHPC Early Career Researchers Award for Excellence in High-Performance Computing (2023) and the Bobcat Fellowship at UC Merced (2020 and 2018). 
     </div>  
 </div>  
-
+<br>
 
 -----------------------
 **Ph.D. Students**
@@ -33,9 +33,8 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Shouwei Gao</b> <br>
-        Ph.D. student (2023 Fall --) <br><br>
+        Ph.D. student (2023 Fall --) <br>
         Email: TBD <br>
-        
     </div>
     <div class="col-sm-5">
         Shouwei Gao joined PiComp lab in fall 2023. His research interests include AI for science; Large-scale ML/AI models; Explainable AI.
@@ -49,20 +48,15 @@ nav: true
     </div>
     <div class="col-sm-4">
         <b>Haoyu Zheng</b> <br>
-        Ph.D. student (2023 Fall --) <br><br>
+        Ph.D. student (2023 Fall --) <br>
         Email: TBD <br>
-        
     </div>
     <div class="col-sm-5">
         His research interests include Disaggregated memory system; System optimization; MPI communication optimization.
     </div>  
 </div>  
-
+<br>
 <br clear="left"/>
-
-
-
-
 
 -----------------------
 **Research Intern**
